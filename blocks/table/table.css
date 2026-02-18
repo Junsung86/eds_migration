@@ -1,0 +1,122 @@
+.table.block {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.table.block table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  font-size: var(--body-font-size-xs);
+  line-height: 1.25;
+}
+
+/* Header row - black background, white text */
+.table.block table thead tr {
+  background-color: var(--dark-color);
+  border: none;
+}
+
+.table.block table thead th {
+  color: var(--white-color);
+  font-weight: 400;
+  padding: 20px 8px;
+  vertical-align: middle;
+  border: none;
+}
+
+/* Body rows - white background */
+.table.block table tbody tr {
+  background-color: var(--white-color);
+  border-bottom: 1px solid #efefef;
+}
+
+.table.block table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.table.block table td {
+  padding: 20px 8px;
+  vertical-align: middle;
+  color: var(--text-color);
+  border: none;
+}
+
+/* Override global button styling for links in table */
+.table.block table th .button-container,
+.table.block table td .button-container {
+  margin: 0;
+}
+
+.table.block table th a,
+.table.block table th a.button,
+.table.block table td a,
+.table.block table td a.button {
+  text-decoration: underline;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+.table.block table thead th a,
+.table.block table thead th a.button {
+  color: var(--white-color);
+}
+
+.table.block table tbody td a,
+.table.block table tbody td a.button {
+  color: var(--text-color);
+}
+
+.table.block table thead th a:hover,
+.table.block table thead th a.button:hover {
+  background-color: transparent;
+  opacity: 0.8;
+}
+
+.table.block table tbody td a:hover,
+.table.block table tbody td a.button:hover {
+  background-color: transparent;
+  color: var(--gray-color);
+}
+
+@media (width >= 900px) {
+  .table.block table thead th,
+  .table.block table td {
+    padding: 30px 8px;
+  }
+}
+
+/* bordered variant */
+.table.block.bordered table th,
+.table.block.bordered table td {
+  border: 1px solid #efefef;
+}
+
+/* First column bold feature names */
+.table.block table tbody td:first-child {
+  font-weight: 700;
+}
+
+.table table th p,
+.table table td p {
+  margin: 0;
+}
+
+.table table td p + p {
+  margin-top: 0.25em;
+}
+
+/* no header variant */
+.table.block.no-header table tbody tr {
+  border-top: 1px solid #efefef;
+}
+
+/* striped variant */
+.table.block.striped tbody tr:nth-child(odd) {
+  background-color: var(--light-color);
+}

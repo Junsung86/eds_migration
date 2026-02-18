@@ -1,0 +1,45 @@
+- [![LG logo](/icons/lg-logo.svg)](https://www.lg.com/uk/)
+
+---
+
+- **Promotions**
+  - [All Promotions](https://www.lg.com/uk/promotions/)
+  - [Exclusive Offers](https://www.lg.com/uk/promotions/exclusive-offers/)
+  - [Bundle Offers](https://www.lg.com/uk/promotions/bundle-offers/)
+  - [Trade-Up Programme](https://www.lg.com/uk/promotions/trade-up/)
+  - [Student & Graduate Discount](https://www.lg.com/uk/promotions/student-discount/)
+  - [NHS Staff Discount](https://www.lg.com/uk/promotions/nhs-discount/)
+- **TV & Soundbars**
+  - [All TVs](https://www.lg.com/uk/tvs/)
+  - [OLED TVs](https://www.lg.com/uk/tvs/oled-tvs/)
+  - [QNED TVs](https://www.lg.com/uk/tvs/qned-tvs/)
+  - [MiniLED TVs](https://www.lg.com/uk/tvs/miniled-tvs/)
+  - [4K TVs](https://www.lg.com/uk/tvs/4k-tvs/)
+  - [All Soundbars](https://www.lg.com/uk/soundbars/)
+  - [All Speakers](https://www.lg.com/uk/speakers/)
+- **Appliances**
+  - [Laundry](https://www.lg.com/uk/laundry/)
+  - [Fridge Freezers](https://www.lg.com/uk/fridge-freezers/)
+  - [Dishwashers](https://www.lg.com/uk/dishwashers/)
+  - [Microwaves](https://www.lg.com/uk/microwaves/)
+  - [Vacuum Cleaners](https://www.lg.com/uk/vacuum-cleaners/)
+  - [Air Purifiers](https://www.lg.com/uk/air-purifiers/)
+- **Heating & Cooling**
+  - [Air-to-Water Heat Pumps](https://www.lg.com/uk/heating/air-to-water-heat-pumps/)
+  - [Air Conditioners](https://www.lg.com/uk/air-conditioners/)
+- **Computing**
+  - [Monitors](https://www.lg.com/uk/monitors/)
+  - [Laptops](https://www.lg.com/uk/laptops/)
+- [Accessories](https://www.lg.com/uk/accessories/)
+- **Support**
+  - [Product Support](https://www.lg.com/uk/support/)
+  - [Contact Us](https://www.lg.com/uk/support/contact/)
+  - [Register a Product](https://www.lg.com/uk/support/register-product/)
+  - [Track a Repair](https://www.lg.com/uk/support/repair-status/)
+- [LG AI](https://www.lg.com/uk/lg-ai/)
+
+---
+
+- [Search](#)
+- [My Account](https://www.lg.com/uk/my-account/)
+- [Cart](https://www.lg.com/uk/cart/)
