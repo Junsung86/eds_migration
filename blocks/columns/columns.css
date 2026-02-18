@@ -1,10 +1,13 @@
 .columns > div {
   display: flex;
   flex-direction: column;
+  gap: 16px;
 }
 
 .columns img {
   width: 100%;
+  border-radius: 15px;
+  object-fit: cover;
 }
 
 .columns > div > div {
@@ -19,11 +22,34 @@
   display: block;
 }
 
+/* Text column styling */
+.columns > div > div:not(.columns-img-col) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.columns > div > div:not(.columns-img-col) p:last-child a {
+  display: inline-block;
+  background-color: var(--accent-color);
+  color: var(--white-color);
+  padding: 10px 28px;
+  border-radius: 25px;
+  font-size: var(--body-font-size-m);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color var(--transition-base);
+}
+
+.columns > div > div:not(.columns-img-col) p:last-child a:hover {
+  background-color: var(--accent-hover-color);
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
-    flex-direction: unset;
-    gap: 24px;
+    flex-direction: row;
+    gap: 32px;
   }
 
   .columns > div > div {
