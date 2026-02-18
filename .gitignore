@@ -9,6 +9,8 @@ helix-importer-ui
 .idea
 .env
 migration-work/
+*.png
+!icons/*.svg
 
 # Ensure these files are tracked
 !CLAUDE.md
